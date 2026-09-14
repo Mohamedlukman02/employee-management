@@ -1,7 +1,3 @@
-Absolutely. For your **Employee Management CRUD API**, I recommend a professional README that is simple enough for a fresher project but looks good to recruiters.
-
-Replace your current `README.md` with this:
-
 ````markdown
 # Employee Management CRUD API
 
